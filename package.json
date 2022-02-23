@@ -1,0 +1,12 @@
+{
+  "name": "nods-sqs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "aws-sdk": "^2.1079.0"
+  },
+  "devDependencies": {
+    "typescript": "^4.5.5"
+  }
+}
